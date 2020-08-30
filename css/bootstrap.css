@@ -191,8 +191,8 @@ body {
   font-family: Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 23px;
-  color: #333333;
-  background: url(../img/bodybg.png) repeat;
+  color: #f00;
+  background: #000;
 }
 .container {
   background: #eee url(../img/bg.png) repeat;
